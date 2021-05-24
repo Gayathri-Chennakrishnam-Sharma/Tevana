@@ -38,14 +38,15 @@ Tools used :
 VS Code
 Github
 
-      ✴Non-Technical:
-
+  ✴Non-Technical:
 Monday.com
 Sketchboard
 Keynote
+
+
 Future Scope :
 Integrating a blog space for members’ interactions.
 Track your garden progress by uploading weekly/bi-weekly progress and consulting a team of garden experts.
 Extending the home garden workflow to bigger farms.
 
-                                                               THANK YOU.
+                                                           THANK YOU.
